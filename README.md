@@ -1,3 +1,13 @@
+Note
+====
+
+This is my personal fork of the Official XBMC Remote for Android. It contains modifications I've made to keep it more current against lightly XBMC builds. If you're using a nightly build I hope you'll find this useful.
+
+Changes from official (freezy) repo:
+
+* Includes pull request [37](https://github.com/freezy/android-xbmcremote/pull/37), which fixes the TV library mode (broken when used against XBMC's master branch).
+* Includes pull request [32](https://github.com/freezy/android-xbmcremote/pull/32), which adds an 'auto rotate' setting, per feature request 226.
+
 Official XBMC Remote for Android
 ================================
 
