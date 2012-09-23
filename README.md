@@ -9,6 +9,7 @@ Changes from official (freezy) repo:
 * Includes pull request [32](https://github.com/freezy/android-xbmcremote/pull/32), which adds an 'auto rotate' setting, per feature request 226.
 * Includes pull request [44](https://github.com/freezy/android-xbmcremote/pull/44), which fixes "Play on XBMC" on android apps that support it.
 * Includes pull request [34](https://github.com/freezy/android-xbmcremote/pull/34), which adds support for rtmp:// links via the share menu.
+* Includes pull request [33](https://github.com/freezy/android-xbmcremote/pull/33), which adds runtime sorting for movies.
 
 Official XBMC Remote for Android
 ================================
